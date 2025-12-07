@@ -1,2 +1,4 @@
-matplotlib
-gradio
+Gradio (for UI)
+Matplotlib (for drawing frames)
+Pillow (PIL) (opening images)
+NumPy (matplotlib depends on i
