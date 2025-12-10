@@ -42,4 +42,4 @@ https://drive.google.com/file/d/1iE_8QnxscpNu2LZGEIPLv4P3YK5tIWnF/view?usp=shari
 https://huggingface.co/spaces/JJEA12/CICS-121-PROJECT
 ## Author & Acknowledgment
 This Project was created by me Jesuni Akinsola using the GUI gradio making it public with hugging face.
-tool used include: Chat gpt and VSCode
+tools used include: Chat gpt and VSCode
